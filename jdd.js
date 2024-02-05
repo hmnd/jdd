@@ -537,7 +537,7 @@ var jdd = {
             path1: pathObj1,
             path2: pathObj2,
             type: type,
-            msg: msg
+            msg: msg + '<br>at ' + path1,
         };
     },
 
